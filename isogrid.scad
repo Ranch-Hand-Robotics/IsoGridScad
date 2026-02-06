@@ -1,6 +1,12 @@
-// isogrid.scad - Isogrid Pattern Generation Library
+// =============================================================================
+// IsoGridScad - Isogrid Pattern Generation Library
+// =============================================================================
+// Copyright (c) 2025 Ranch Hand Robotics, LLC
+// Licensed under the MIT License - See LICENSE.txt for details
+// 
 // Generates isometric grid patterns for rectangles and polygons
 // Uses standard OpenSCAD geometry only (no BOSL2 dependencies)
+// =============================================================================
 
 // ============================================================================
 // 2D ISOGRID PATTERN GENERATORS
